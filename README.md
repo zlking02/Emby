@@ -1,17 +1,13 @@
-# Emby 公益服分流规则
+# Emby Premiere 破解及各大公益服分流规则
 
-## ZDZ
+## Filter
 
-Emby 终点站
+各大公益服分流规则
 
-## JMS
+## Module
 
-卷毛鼠影视
+模块
 
-## Maying
+## Script
 
-普拉斯影业-魅影极速专用
-
-## OtakuDrive
-
-OtakuDrive-EMBY
+脚本
