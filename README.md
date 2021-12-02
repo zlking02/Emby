@@ -11,3 +11,12 @@
 ## Script
 
 脚本
+
+## 使用方法
+
+Emby 破解
+
+```
+[rewrite_remote]
+https://raw.githubusercontent.com/zlking02/Emby/main/Module/Premiere/QuanX.conf, tag=Emby Premiere, update-interval=86400, enabled=true
+```
