@@ -14,7 +14,9 @@
 
 ## 使用方法
 
-Emby 破解
+Emby Premiere 破解
+
+> QuantumultX 配置文件中添加
 
 ```
 [rewrite_remote]
