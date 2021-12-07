@@ -1,8 +1,4 @@
-# Emby Premiere 破解及各大公益服分流规则
-
-## Filter
-
-各大公益服分流规则
+# Emby Premiere 破解
 
 ## Module
 
@@ -13,8 +9,6 @@
 脚本
 
 ## 使用方法
-
-Emby Premiere 破解
 
 > QuantumultX 配置文件中添加
 
