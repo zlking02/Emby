@@ -1,16 +1,18 @@
 # Emby Premiere 破解
 
-## Module
+## 文件结构
+
+### Module
 
 模块
 
-## Script
+### Script
 
 脚本
 
 ## 使用方法
 
-> QuantumultX 配置文件中添加
+### QuantumultX
 
 ```
 [rewrite_remote]
