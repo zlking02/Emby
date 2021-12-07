@@ -2,13 +2,8 @@
 
 ## 文件结构
 
-### Module
-
-模块
-
-### Script
-
-脚本
+-   Module: 模块
+-   Script: 脚本
 
 ## 使用方法
 
